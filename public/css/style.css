@@ -44,6 +44,11 @@
   margin-right: 2rem;
 }
 
+footer .f-info-socials a i {
+  color: black;
+}
+
+
 .f-info {
   text-align: center;
   height: 8rem;
